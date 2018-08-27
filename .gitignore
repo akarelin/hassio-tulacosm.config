@@ -1,13 +1,5 @@
 *
 !*.yaml
 !.gitignore
-
-.*
-*.log
-*.db
 secrets.yaml
 known_devices.yaml
-/.cloud
-/.storage
-/deps
-/tts
