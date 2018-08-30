@@ -1,0 +1,8 @@
+  ui:
+    title: Lovelace
+    icon: mdi:view-quilt
+    url: http://tulacosm-hassio.karel.in:8123/lovelace/0
+  configurator:
+    title: Configurator
+    icon: mdi:wrench
+    url: https://tulacosm-hassio.karel.in:3218

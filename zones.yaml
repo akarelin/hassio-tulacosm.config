@@ -1,0 +1,18 @@
+ - name: Creekview
+   latitude: !secret creekview_la
+   longitude: !secret creekview_lo
+   radius: 1000
+   icon: mdi:home-variant
+ - name: Sway
+   latitude: !secret sway_la
+   longitude: !secret sway_lo
+   radius: 50
+   icon: mdi:home-modern
+ - name: TulaCoSM
+   latitude: !secret tulacosm_la
+   longitude: !secret tulacosm_la
+   radius: 50
+ - name: Yakimanka
+   latitude: !secret yaki_la
+   longitude: !secret yaki_lo
+   radius: 100

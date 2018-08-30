@@ -1,0 +1,101 @@
+##########################
+# TulaCo
+##########################
+
+#
+# Steve
+#
+
+steve-macbook:
+  hide_if_away: false
+  icon: mdi:laptop-mac
+  mac: 6C:40:08:B7:8E:5E
+  name: Steve MacBook
+  picture:
+  track: true
+
+steve-iphone:
+  hide_if_away: false
+  icon: mdi:cellphone-iphone
+  mac: 40:4D:7F:BF:42:18
+  name: Steve iPhone
+  picture:
+  track: true
+
+#
+# Julia
+#
+
+jmarchenko-iphone:
+  hide_if_away: false
+  icon: mdi:cellphone-iphone
+  mac: 48:3b:38:59:95:ed
+  name: Julia iPhone
+  track: true
+
+#
+# Andrei
+#
+  
+achistyakov-iphone:
+  hide_if_away: false
+  icon: mdi:cellphone-iphone
+  mac: f4:31:c3:1f:24:c0
+  name: Andrei iPhone
+  track: true
+  
+achistyakov-macbook:
+  hide_if_away: false
+  icon: mdi:laptop-mac
+  mac: ac:bc:32:cf:41:b5
+  name: Andrei MacBook
+  track: true
+
+#
+# ALEX
+#
+
+# Alex iPhone
+alex-iphone_unifi:
+  hide_if_away: false
+  icon: mdi:cellphone-iphone
+  mac: 3C:2E:F9:1F:D0:86
+  name: Alex iPhone X
+  picture:
+  track: true
+
+# Alex Watch
+alex-watch3_unifi:
+  hide_if_away: false
+  icon: mdi:watch-variant
+  mac: 40:CB:C0:9C:75:3F
+  name: Alex Watch
+  picture:
+  track: true
+
+# Alex computers
+alex-nuc_lan_unifi:
+  hide_if_away: false
+  icon: mdi:desktop-classic
+  mac: 94:C6:91:1E:65:22
+  name: Alex NUC (LAN)
+  picture:
+  track: true
+
+alex-surface_dock_unifi:
+  hide_if_away: false
+  icon: mdi:laptop-windows
+  mac: BC:83:85:F4:A0:C1
+  name: Alex Surface (Docked)
+  picture:
+  track: true
+
+alex-surface_unifi:
+  hide_if_away: false
+  icon: mdi:laptop-windows
+  mac: C4:9D:ED:16:20:B0
+  name: Alex Surface
+  picture:
+  track: true
+
+
